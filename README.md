@@ -1,24 +1,27 @@
-# README
+# Palace
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Issue tracker - in progress (it's not usable yet)
 
-Things you may want to cover:
+## Stack
+```
+rails 5.1
+react
+```
+## Start
+```
+git clone https://github.com/locovna/palace.git
+cd palace
+bundle install
+rails s
+```
 
-* Ruby version
+## Todo
+- [ ] Basic Auth via `devise`
+- [ ] Issues
+- [ ] Comments
+- [ ] Realms
+- [ ] User Account
+- [ ] Deploy
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## For
+itself and learning some things
