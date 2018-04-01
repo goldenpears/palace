@@ -17,11 +17,12 @@ rails s
 
 ## Todo
 - [ ] Basic Auth via `devise`
-- [ ] Issues
-- [ ] Comments
-- [ ] Realms
+- [x] Issues
+- [x] Comments
+- [x] Realms
 - [ ] User Account
-- [ ] Deploy
+- [x] Deploy
+- [ ] Views
 
 ## For
 itself and learning some things
